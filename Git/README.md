@@ -54,7 +54,6 @@ The dataset used for this project consists of various features, including:
 
 ## Key Insights
 
-- **Season**: Strongly correlates with bike bookings, with peak bookings in specific seasons.
 - **Weather Situation**: Weather conditions, especially clear weather, lead to higher bookings.
 - **Temperature**: Higher temperatures tend to have higher bike-sharing demand.
-- **Weekdays & Working Day**: Demand is generally higher on working days and during the weekdays.
+- **Year**: Demand is generally higher on working days and during the weekdays.
